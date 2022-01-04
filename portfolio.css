@@ -340,7 +340,7 @@ img{
     	width: 300px;
     }
     .work_container{
-    	grid-template-columns: 1fr 1fr 1fr;
+    	grid-template-columns: 1fr 1fr ;
     }
     .contact_form{
     	width: 360px;
