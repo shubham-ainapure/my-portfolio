@@ -229,18 +229,19 @@ img{
 	height: .25rem;
 	border-radius: .5rem;
 	z-index: 1;
+	width: 100%;
 }
 .skills_html{
-	width: 95%;
+	/*width: 100%;*/
 }
 .skills_css{
-	width: 80%;
+	/*width: 80%;*/
 }
 .skills_js{
-	width: 75%;
+	/*width: 75%;*/
 }
 .skills_bootstrap{
-	width: 85%;
+	/*width: 85%;*/
 }
 .skills_img{
 	border-radius: .5rem;
